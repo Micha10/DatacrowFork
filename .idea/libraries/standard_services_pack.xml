@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="standard_services_pack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-client/services/standard_services_pack.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

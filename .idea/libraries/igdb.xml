@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="igdb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/igdb/org.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/igdb/unirest-java-1.4.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

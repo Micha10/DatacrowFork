@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="jasper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/groovy-all-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/jasperreports-fonts-6.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/jasperreports-functions-6.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/jasperreports-6.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/commons-validator-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/jasperreports-javaflow-6.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/commons-math-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jasper/commons-vfs-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

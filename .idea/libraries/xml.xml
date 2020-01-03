@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="xml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/xml/xml-apis-1.3.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/xml/xmlgraphics-commons-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/xml/batik-all-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/xml/xsltc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/xml/serializer-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/xml/xalan-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/xml/xercesImpl-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/xml/xml-apis-ext-1.3.04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

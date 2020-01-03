@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="datacrow-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/datacrow-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

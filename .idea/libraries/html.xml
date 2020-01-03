@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="html">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/html/js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/html/cobra.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

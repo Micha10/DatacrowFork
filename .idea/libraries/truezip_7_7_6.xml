@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="truezip_7_7_6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/zip/truezip_7_7_6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="tomcat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-logging-juli.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/servlet-api-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/apache-jstl-9.2.1.v20140609.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/ecj-4.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-logging-log4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

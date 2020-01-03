@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datacrow-client/datacrow-client.iml" filepath="$PROJECT_DIR$/datacrow-client/datacrow-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datacrow-core/datacrow-core.iml" filepath="$PROJECT_DIR$/datacrow-core/datacrow-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datacrow-server/datacrow-server.iml" filepath="$PROJECT_DIR$/datacrow-server/datacrow-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datacrow-services/datacrow-services.iml" filepath="$PROJECT_DIR$/datacrow-services/datacrow-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-themoviedb/themoviedbapi (2).iml" filepath="$PROJECT_DIR$/api-themoviedb/themoviedbapi (2).iml" />
+    </modules>
+  </component>
+</project>

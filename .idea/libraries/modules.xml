@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="modules">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/item.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/software.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/music album.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/developer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/author.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/director.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/musicartist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/music track.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/record label.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/contactperson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/movie.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/container.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/book.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/softwarepublisher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/bookpublisher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/actor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-client/modules/image.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="httpclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/httpclient/fluent-hc-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/httpclient/httpmime-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/httpclient/httpclient-win-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/httpclient/httpclient-cache-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/httpclient/httpcore-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/httpclient/jna-platform-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/httpclient/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-services/lib/httpclient/httpclient-4.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

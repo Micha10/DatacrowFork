@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-server/webapp/datacrow/WEB-INF/lib/bootstrap-1.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/webapp/datacrow/WEB-INF/lib/javax.faces-2.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/webapp/datacrow/WEB-INF/lib/weld-servlet-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/webapp/datacrow/WEB-INF/lib/primefaces-6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

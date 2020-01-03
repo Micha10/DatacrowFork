@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hsqldb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/hsqldb/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-server/lib/hsqldb/sqltool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

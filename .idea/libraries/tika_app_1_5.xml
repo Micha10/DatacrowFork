@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tika-app-1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-client/lib/apache-tika/tika-app-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="datacrow-services:jar">
+    <output-path>$PROJECT_DIR$/datacrow-client/services</output-path>
+    <root id="archive" name="datacrow-services.jar">
+      <element id="module-output" name="datacrow-services" />
+    </root>
+  </artifact>
+</component>

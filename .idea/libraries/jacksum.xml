@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jacksum">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/jacksum/jacksum.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

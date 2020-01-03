@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="pdf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/pdf/pdfbox-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/pdf/bcmail-jdk14-132.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/pdf/bcprov-jdk14-132.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/pdf/ISBNExtractor-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/pdf/fontbox-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datacrow-core/lib/pdf/PDFRenderer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

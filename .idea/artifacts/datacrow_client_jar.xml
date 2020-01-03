@@ -1,0 +1,96 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="datacrow-client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/datacrow_client_jar</output-path>
+    <root id="archive" name="datacrow-client.jar">
+      <element id="module-output" name="datacrow-client" />
+      <element id="module-output" name="datacrow-core" />
+      <element id="module-output" name="datacrow-server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/zip/truezip_7_7_6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jacksum/jacksum.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-logging-juli.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/servlet-api-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-el.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-jasper.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/apache-jstl-9.2.1.v20140609.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-websocket.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-dbcp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/ecj-4.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/tomcat/tomcat-embed-logging-log4j.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jebml/jebml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-client/lib/apache-tika/tika-app-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-client/lib/javahelp/jhall.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/pdf/pdfbox-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/pdf/bcmail-jdk14-132.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/pdf/bcprov-jdk14-132.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/pdf/ISBNExtractor-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/pdf/fontbox-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/pdf/PDFRenderer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/xml/xml-apis-1.3.04.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/xml/xmlgraphics-commons-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/xml/batik-all-1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/xml/xsltc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/xml/serializer-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/xml/xalan-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/xml/xercesImpl-2.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/xml/xml-apis-ext-1.3.04.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/hsqldb/hsqldb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-server/lib/hsqldb/sqltool.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/html/js.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/html/cobra.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jaudiotagger/jaudiotagger-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/log4j/log4j-1.2.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/commons-discovery-0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/groovy-all-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/commons-beanutils-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/commons-digester-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/jasperreports-fonts-6.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/jasperreports-functions-6.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/jasperreports-6.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/commons-validator-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/jasperreports-javaflow-6.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/commons-math-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/jasper/commons-vfs-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/commons/commons-pool2-2.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/commons/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/commons/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/commons/commons-lang3-3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/commons/commons-dbcp2-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/commons/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/commons/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-client/lib/chart/gnujaxp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-client/lib/chart/jfreechart-1.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-client/lib/chart/servlet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-client/lib/chart/jfreechart-1.0.13-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-client/lib/chart/swtgraphics2d.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-client/lib/chart/jcommon-1.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-client/lib/chart/iText-2.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/datacrow-core/lib/json/json-io-2.8.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="commons" />
+      <element id="library" level="project" name="html" />
+      <element id="library" level="project" name="jhall" />
+      <element id="library" level="project" name="jaudiotagger-2.2.0" />
+      <element id="library" level="project" name="pdf" />
+      <element id="library" level="project" name="jebml" />
+      <element id="library" level="project" name="chart" />
+      <element id="library" level="project" name="xml" />
+      <element id="library" level="project" name="log4j-1.2.14" />
+      <element id="library" level="project" name="truezip_7_7_6" />
+      <element id="library" level="project" name="tika-app-1.5" />
+      <element id="library" level="project" name="jacksum" />
+      <element id="library" level="project" name="json-io-2.8.1" />
+      <element id="library" level="project" name="jasper" />
+      <element id="library" level="project" name="tomcat" />
+      <element id="library" level="project" name="hsqldb" />
+      <element id="library" level="project" name="empty" />
+      <element id="library" level="project" name="jtattoo" />
+      <element id="library" level="project" name="lib1" />
+      <element id="library" level="project" name="modules" />
+      <element id="library" level="project" name="standard_services_pack" />
+      <element id="library" level="project" name="xml-rpc" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.7" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.10" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.12" />
+    </root>
+  </artifact>
+</component>
